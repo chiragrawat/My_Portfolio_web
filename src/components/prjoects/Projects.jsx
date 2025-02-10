@@ -28,7 +28,7 @@ const Projects = () => {
             </div>
     
             <div className="column" >
-            <div className="project" onClick={() => window.open('https://github.com/chiragrawat/brainwave_frontend_web', '_blank')}>
+            <div className="project" onClick={() => window.open('https://brainwave-xxs9.onrender.com', '_blank')}>
                 <img src="/brainwave.jpg" alt="Brainwave Website Design"/>
                 <h4>Brainwave Website Design</h4>
                 <p>Designed a modern, user-centric website with a bentobox layout and responsive design, using Material-UI for enhanced styling and usability.</p>
